@@ -1,0 +1,3 @@
+# puertas
+# ventanas
+# ventanas
